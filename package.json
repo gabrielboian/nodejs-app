@@ -1,0 +1,22 @@
+{
+  "name": "simple-nodejs",
+  "version": "1.0.0",
+  "description": "A simple nodeJS app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/config/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielboian/nodejs-app.git"
+  },
+  "author": "Gabriel Boian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielboian/nodejs-app/issues"
+  },
+  "homepage": "https://github.com/gabrielboian/nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
